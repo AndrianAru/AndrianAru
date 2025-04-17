@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Andrian and I'm a business consultant at <a href="https://www.rivacon.com/">RIVACON</a>, from Bonn, Germany.</p>
+<p align="left">
+  My name is Andrian and I'm a business consultant at <a href="https://www.rivacon.com/">RIVACON</a>, from Bonn, Germany.<br>
+  I am mostly interest in computational finance and financial applications.
+  For further information, see <a href="https://andrian.arutyunov.de/">my website</a>.
+</p>
 
 ###
 
