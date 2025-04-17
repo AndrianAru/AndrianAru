@@ -5,7 +5,7 @@
 <p align="left">
   My name is Andrian and I'm a business consultant based in Bonn, Germany.<br>
   I studied mathematics at the <a href="https://www.uni-bonn.de/en">University of Bonn</a> and now work at <a href="https://www.rivacon.com/">RIVACON GmbH</a>.<br>
-  I am mostly interest in computational finance and financial applications.
+  I am mostly interest in computational finance and financial applications.<br>
   For further information, see <a href="https://andrian.arutyunov.de/">my website</a>.
 </p>
 
